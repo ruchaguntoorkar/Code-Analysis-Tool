@@ -1,0 +1,46 @@
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\bin\Debug\TestUtilities.exe.config
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\bin\Debug\TestUtilities.exe
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\bin\Debug\IPluggable.dll
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\bin\Debug\IPluggable.pdb
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\bin\Debug\IPluggable.dll.config
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\obj\Debug\TestUtilities.csprojResolveAssemblyReference.cache
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\obj\Debug\TestUtilities.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\obj\Debug\TestUtilities.exe
+C:\su\CSE681\code\Project3Sample\PluggableComm\TestUtilities\obj\Debug\TestUtilities.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\obj\Debug\TestUtilities.csprojResolveAssemblyReference.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\obj\Debug\TestUtilities.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\bin\Debug\TestUtilities.exe.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\bin\Debug\TestUtilities.exe
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\obj\Debug\TestUtilities.exe
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\TestUtilities\obj\Debug\TestUtilities.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\bin\Debug\TestUtilities.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\bin\Debug\TestUtilities.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\bin\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\bin\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\bin\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\bin\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\bin\Debug\IService.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\obj\Debug\TestUtilities.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\obj\Debug\TestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\obj\Debug\TestUtilities.csproj.CopyComplete
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\obj\Debug\TestUtilities.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestUtilities\obj\Debug\TestUtilities.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\bin\Debug\TestUtilities.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\bin\Debug\TestUtilities.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\bin\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\bin\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\bin\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\bin\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\bin\Debug\IService.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\obj\Debug\TestUtilities.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\obj\Debug\TestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\obj\Debug\TestUtilities.csproj.CopyComplete
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\obj\Debug\TestUtilities.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestUtilities\obj\Debug\TestUtilities.pdb

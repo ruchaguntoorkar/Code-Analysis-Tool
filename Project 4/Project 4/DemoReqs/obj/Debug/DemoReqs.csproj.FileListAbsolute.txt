@@ -1,0 +1,2 @@
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\NavigatorClientServer\DemoReqs\obj\Debug\DemoReqs.csprojAssemblyReference.cache
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\NavigatorClientServer\DemoReqs\obj\Debug\DemoReqs.csproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\DependencyTable\bin\Debug\DependencyTable.dll.config
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\DependencyTable\bin\Debug\DependencyTable.dll
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\DependencyTable\bin\Debug\DependencyTable.pdb
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\DependencyTable\obj\Debug\DependencyTable.csprojAssemblyReference.cache
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\DependencyTable\obj\Debug\DependencyTable.dll
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\DependencyTable\obj\Debug\DependencyTable.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\DependencyTable\bin\Debug\DependencyTable.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\DependencyTable\bin\Debug\DependencyTable.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\DependencyTable\bin\Debug\DependencyTable.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\DependencyTable\obj\Debug\DependencyTable.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\DependencyTable\obj\Debug\DependencyTable.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\DependencyTable\bin\Debug\DependencyTable.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\DependencyTable\bin\Debug\DependencyTable.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\DependencyTable\bin\Debug\DependencyTable.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\DependencyTable\obj\Debug\DependencyTable.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\DependencyTable\obj\Debug\DependencyTable.pdb

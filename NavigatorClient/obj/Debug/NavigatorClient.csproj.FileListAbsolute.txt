@@ -1,0 +1,104 @@
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigatorClient\obj\Debug\NavigatorClient.pdb

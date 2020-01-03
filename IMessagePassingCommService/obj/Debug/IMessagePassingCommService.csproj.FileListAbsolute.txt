@@ -1,0 +1,26 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.pdb
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.dll.config
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.dll
+C:\su\temp\NavigatorClient3\IService\bin\Debug\IService.pdb
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IService.dll
+C:\su\temp\NavigatorClient3\IService\obj\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\IMessagePassingCommService\obj\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\IMessagePassingCommService\bin\Debug\IService.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\IMessagePassingCommService\bin\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\IMessagePassingCommService\bin\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\IMessagePassingCommService\obj\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\IMessagePassingCommService\obj\Debug\IService.pdb

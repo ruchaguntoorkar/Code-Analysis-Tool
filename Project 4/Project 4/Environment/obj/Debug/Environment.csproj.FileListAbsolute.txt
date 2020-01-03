@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Environment\bin\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Environment\bin\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Environment\obj\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Environment\obj\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Environment\bin\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Environment\bin\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Environment\obj\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Environment\obj\Debug\Environment.pdb

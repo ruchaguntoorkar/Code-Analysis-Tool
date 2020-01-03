@@ -1,0 +1,27 @@
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe.config
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.pdb
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.pdb
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Toker\bin\Debug\Toker.dll.config
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Toker\bin\Debug\Toker.dll
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Toker\bin\Debug\Toker.pdb
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Toker\obj\Debug\Toker.dll
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Toker\obj\Debug\Toker.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Toker\bin\Debug\Toker.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Toker\bin\Debug\Toker.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Toker\bin\Debug\Toker.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Toker\obj\Debug\Toker.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Toker\obj\Debug\Toker.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Toker\bin\Debug\Toker.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Toker\bin\Debug\Toker.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Toker\bin\Debug\Toker.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Toker\obj\Debug\Toker.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Toker\obj\Debug\Toker.pdb

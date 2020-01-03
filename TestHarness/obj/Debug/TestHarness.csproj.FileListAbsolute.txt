@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\TestHarness\obj\Debug\TestHarness.pdb

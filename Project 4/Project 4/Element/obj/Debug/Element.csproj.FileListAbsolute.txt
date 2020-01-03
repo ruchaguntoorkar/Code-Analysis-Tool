@@ -1,0 +1,17 @@
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Element\bin\Debug\Element.dll
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Element\bin\Debug\Element.pdb
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Element\obj\Debug\Element.csprojAssemblyReference.cache
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Element\obj\Debug\Element.dll
+E:\Masters-Computer Science\Second Semester\SMA\Project4_HelperProjects\Project3_InstrSoln\Element\obj\Debug\Element.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Element\bin\Debug\Element.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Element\bin\Debug\Element.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Element\obj\Debug\Element.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\Element\obj\Debug\Element.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Element\bin\Debug\Element.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Element\bin\Debug\Element.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Element\obj\Debug\Element.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Element\obj\Debug\Element.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\Element\obj\Debug\Element.pdb

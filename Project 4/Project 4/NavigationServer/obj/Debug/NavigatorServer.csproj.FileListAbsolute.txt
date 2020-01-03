@@ -1,0 +1,94 @@
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\CsGraph.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\DemoExecutive.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\DependencyTable.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Parser.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\SemiExp.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Element.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Display.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\TypeTable.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Toker.dll
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\CsGraph.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\DemoExecutive.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\DemoExecutive.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\DependencyTable.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\DependencyTable.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\IService.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Parser.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Parser.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\SemiExp.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\SemiExp.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Element.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Display.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Display.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\TypeTable.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\TypeTable.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Toker.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\bin\Debug\Toker.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Users\hp\Desktop\Project 4\Project 4\NavigatorClientServer\NavigationServer\obj\Debug\NavigationServer.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\CsGraph.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\DemoExecutive.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\DependencyTable.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Environment.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\FileMgr.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\IService.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Parser.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\SemiExp.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Element.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Display.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\TypeTable.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Toker.dll
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\CsGraph.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\DemoExecutive.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\DemoExecutive.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\DependencyTable.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\DependencyTable.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Environment.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\IService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\IService.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Parser.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Parser.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\SemiExp.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\SemiExp.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Element.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Display.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Display.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\TypeTable.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\TypeTable.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Toker.pdb
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\bin\Debug\Toker.dll.config
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\obj\Debug\NavigatorServer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Users\hp\Desktop\Project 4\Project 4\Project 4\NavigationServer\obj\Debug\NavigationServer.pdb

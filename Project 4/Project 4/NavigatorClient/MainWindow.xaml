@@ -1,0 +1,138 @@
+﻿<Window x:Class="Navigator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Navigator"
+        mc:Ignorable="d"
+        Closing="Window_Closing"
+        Closed="Window_Closed"
+        Title=" Client" Height="750" Width="750">
+    <Window.Resources>
+        <!-- 
+    /////////////////////////////////////////////////////////////////////////
+    // NavigatorClient.xaml - Demonstrates Directory Navigation in WPF App //
+    // ver 2.0                                                             //
+    // Jim Fawcett, CSE681 - Software Modeling and Analysis, Fall 2017     //
+    /////////////////////////////////////////////////////////////////////////
+    -->
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="Foreground" Value="DarkSlateBlue" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Foreground" Value="DarkSlateBlue" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="{x:Type TabItem}">
+            <Setter Property="Foreground" Value="DarkSlateBlue" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="16" />
+        </Style>
+        <Style TargetType="{x:Type ListBox}">
+            <Setter Property="Foreground" Value="DarkSlateBlue" />
+            <Setter Property="FontWeight" Value="Medium" />
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Border Padding="10" Background="#ddd" BorderThickness="0 4 0 0" BorderBrush="DarkSlateBlue">
+            <TabControl RenderTransformOrigin="0.496,0.368" SelectionChanged="TabControl_SelectionChanged" Name="TabControl">
+                
+                <TabItem Name="Local" Header="Navigation">
+                    <!--- define top-level grid with four cells: server files & dirs, and dependency analysis and strong component -->
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="5"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="5"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- define remote files view -->
+                        <Grid Grid.Column="0" Grid.Row="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30"></RowDefinition>
+                                <RowDefinition Height="95*"></RowDefinition>
+                                <RowDefinition Height="203*"/>
+                            </Grid.RowDefinitions>
+                            <StackPanel Grid.Row="0" Height="30" Orientation="Horizontal">
+                                <Label Height="30">Server Files</Label>
+                                <Label Width="10"></Label>
+                                <Button Name="RemoteTop" Width="40" Height="25" Click="RemoteTop_Click">Top</Button>
+                            </StackPanel>
+
+
+                            <ListBox Grid.Row="1" Name="remoteFiles" Grid.RowSpan="2" SelectionChanged="remoteFiles_SelectionChanged">
+                                <ItemsControl ItemsSource="{Binding TheList}">
+                                    <ItemsControl.ItemTemplate>
+                                        <DataTemplate>
+                                            <CheckBox Name="TokerCHeckBox" Content="{Binding TheText}" Loaded="TokerCHeckBox_Loaded"
+                                     Tag="{Binding TheValue}" Checked="CheckBoxZone_Checked"  Unchecked="TokerCHeckBox_Unchecked" 
+                                 Margin="0,5,0,0"/>
+                                        </DataTemplate>
+                                    </ItemsControl.ItemTemplate>
+                                </ItemsControl>
+
+                            </ListBox>
+
+                        </Grid>
+
+
+                        <GridSplitter Grid.Row="1" Grid.ColumnSpan="3" Height="5" HorizontalAlignment="Stretch" Background="#ddd"></GridSplitter>
+
+                        <!-- define remote dirs view -->
+                        <Grid Grid.Column="0" Grid.Row="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <StackPanel Grid.Row="0" Height="30" Orientation="Horizontal">
+                                <Label Height="30">Remote Dirs</Label>
+                                <Label Width="10"></Label>
+                                <Button Name="RemoteUp" Width="40" Height="25" Click="RemoteUp_Click">Up</Button>
+                            </StackPanel>
+                            <ListBox Grid.Row="1" Name="remoteDirs" MouseDoubleClick="remoteDirs_MouseDoubleClick"></ListBox>
+                        </Grid>
+
+
+                        <GridSplitter Grid.Row="1" Grid.ColumnSpan="3" Height="5" HorizontalAlignment="Stretch" Background="#ddd"></GridSplitter>
+                        <!-- define dependency analysis view -->
+                        <Grid Grid.Column="2" Grid.Row="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <StackPanel Grid.Row="0" Height="30" Orientation="Horizontal">
+                                <Button Name="DepAnalysisBtn" Width="150" Height="25" Click="DepAnalysisBtn_Click" HorizontalContentAlignment="Stretch">Dependency Analysis</Button>
+                            </StackPanel>
+                            <ListBox Grid.Row="1" Name="DepAnalysisListBox" MouseDoubleClick="remoteDirs_MouseDoubleClick"></ListBox>
+                        </Grid>
+
+                        <GridSplitter Grid.Column="1" Grid.RowSpan="3" Width="5" HorizontalAlignment="Stretch" Background="#ddd"></GridSplitter>
+                        <!-- define strong Component analysis view -->
+                        <Grid Grid.Column="2" Grid.Row="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <StackPanel Grid.Row="0" Height="30" Orientation="Horizontal">
+                                <Button Name="StrngCompBtn" Width="150" Height="25" Click="StrngCompBtn_Click"  HorizontalAlignment="Center">Strong Component</Button>
+                            </StackPanel>
+                            <ListBox Grid.Row="1" Name="StrngCompListBox"></ListBox>
+                        </Grid>
+
+
+                    </Grid>
+                </TabItem>
+                
+            </TabControl>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,1 @@
+devenv NavigatorClientServer.sln /ReBuild
